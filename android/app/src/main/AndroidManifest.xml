@@ -3,6 +3,8 @@
    <application
         android:label="upcloud_task1"
         android:icon="@mipmap/ic_launcher">
+       <meta-data android:name="com.google.android.geo.API_KEY"
+           android:value="AIzaSyCb9jzcHh8pFJSXBwfQSWGS_srcc0zRogQ"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

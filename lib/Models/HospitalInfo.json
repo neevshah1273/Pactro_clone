@@ -1,0 +1,171 @@
+[{
+  "id": {
+    "$oid": "60b676dafc13ae626600006e"
+  },
+  "Lat": 40.8092579,
+  "Long": -74.0981016,
+  "gender": "Male",
+  "Fees": 2614,
+  "Availibility": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae626600006f"
+  },
+  "Lat": 40.2063442,
+  "Long": -74.5089055,
+  "gender": "Female",
+  "Fees": 4204,
+  "Availibility": {
+    "monday": false,
+    "tuesday": false,
+    "wednesday": true,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000070"
+  },
+  "Lat": 40.023104,
+  "Long": -74.2763069,
+  "gender": "Male",
+  "Fees": 3416,
+  "Availibility": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": true,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000071"
+  },
+  "Lat": 40.5037694,
+  "Long": -74.1324282,
+  "gender": "Female",
+  "Fees": 1792,
+  "Availibility": {
+    "monday": true,
+    "tuesday": true,
+    "wednesday": false,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000072"
+  },
+  "Lat": 40.9045936,
+  "Long": -74.4825577,
+  "gender": "Female",
+  "Fees": 1217,
+  "Availibility": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000073"
+  },
+  "Lat": 40.5560877,
+  "Long": -74.0155081,
+  "gender": "Male",
+  "Fees": 1251,
+  "Availibility": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000074"
+  },
+  "Lat": 40.175543,
+  "Long": -74.296838,
+  "gender": "Female",
+  "Fees": 281,
+  "Availibility": {
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000075"
+  },
+  "Lat": 40.31173,
+  "Long": -74.16145,
+  "gender": "Female",
+  "Fees": 3001,
+  "Availibility": {
+    "monday": false,
+    "tuesday": true,
+    "wednesday": false,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000076"
+  },
+  "Lat": 40.4866757,
+  "Long": -74.485433,
+  "gender": "Male",
+  "Fees": 4037,
+  "Availibility": {
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": true,
+    "Sunday": true
+  }
+}, {
+  "id": {
+    "$oid": "60b676dafc13ae6266000077"
+  },
+  "Lat": 40.7550603,
+  "Long": -74.8975372,
+  "gender": "Male",
+  "Fees": 3600,
+  "Availibility": {
+    "monday": true,
+    "tuesday": false,
+    "wednesday": true,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false
+  }
+}]

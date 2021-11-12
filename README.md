@@ -1,6 +1,8 @@
 # Pactro Clone
 
-A new Flutter application.
+<img src="images/pc1.jpg">
+<img src="images/pc2.jpg">
+
 
 ## Getting Started
 
